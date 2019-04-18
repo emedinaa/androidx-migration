@@ -14,6 +14,8 @@ Migration  of the android dependencies to androidx
 | constraintlayout |com.android.support.constraint:constraint-layout:1.1.3|androidx.constraintlayout:constraintlayout:1.1.3|
 | room | android.arch.persistence.room:runtime:1.0.0 | androidx.room:room-runtime:2.0.0-rc01 |
 | room compiler | android.arch.persistence.room:compiler:1.0.0  | androidx.room:room-compiler:2.0.0-rc01 |
+| lifecycle | android.arch.lifecycle:common:1.1.1 |androidx.lifecycle:lifecycle-common:2.0.0-rc01 |
+| lifecycle extensions | android.arch.lifecycle:extensions:2.1.0-alpha02 |androidx.lifecycle:lifecycle-extensions:2.0.0-rc01|
 | runner | com.android.support.test:runner :1.0.2 | androidx.test:runner :1.0.1 |
 | espresso | com.android.support.test.espresso:espresso-core:3.0.2 | androidx.test.espresso:espresso-core:3.1.1|
 
