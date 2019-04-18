@@ -18,6 +18,7 @@ Add the following on gradle.properties file :
 
 ``
 android.useAndroidX=true
+
 android.enableJetifier=true
 ``
 
