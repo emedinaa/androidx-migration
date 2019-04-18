@@ -5,7 +5,7 @@ Migration  of the android dependencies to androidx
 
 | Library | Previous | Android X     |
 | ------------- | ------------- |------------- |
-| kotlin | -  | androidx.core:core-ktx:1.0.0|
+| kotlin | com.android.support:support-compat  | androidx.core:core-ktx:1.0.0|
 | appcompat  | com.android.support:appcompat-v7:28.0.0  | androidx.appcompat:appcompat:1.0.2 |
 | support v13 |com.android.support:support-v13:28.0.0  | androidx.legacy:legacy-support-v13:1.0.0 |
 | support v4 |com.android.support:support-v4:28.0.0  | androidx.legacy:legacy-support-v4:1.0.0 |
