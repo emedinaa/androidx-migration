@@ -21,12 +21,12 @@ Migration  of the android dependencies to androidx
 
 Add the following on gradle.properties file :
 
-``
+```
 android.useAndroidX=true
 
 android.enableJetifier=true
 
-``
+```
 
 ## References
 
